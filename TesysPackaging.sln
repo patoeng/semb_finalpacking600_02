@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "TesysPackaging", "TesysPackaging\TesysPackaging.vbproj", "{821A8A5F-3B15-46B5-8047-B00684AD138B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{821A8A5F-3B15-46B5-8047-B00684AD138B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{821A8A5F-3B15-46B5-8047-B00684AD138B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{821A8A5F-3B15-46B5-8047-B00684AD138B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{821A8A5F-3B15-46B5-8047-B00684AD138B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
